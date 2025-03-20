@@ -1,0 +1,63 @@
+.banner{
+    font-family: sans-serif;
+    text-align: center;
+}
+.banner h1{
+    padding: 1em;
+    text-align: center;
+    color: darkgreen;
+    font-family: sans-serif;
+    font-weight: bold;
+    word-spacing: normal;
+}    
+
+ 
+.contents{
+    font-family: sans-serif;
+    text-align: center;
+}
+.contents h1{
+    text-align: center;
+    color: darkgreen;
+    word-spacing: normal;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.huge{
+    font-family: sans-serif;
+    text-align: center;
+}
+.huge h1{
+    text-align: center;
+    color: darkgreen;
+    word-spacing: normal;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.hacks{
+    font-family: sans-serif;
+    text-align: center;
+}
+.hacks h1{
+    text-align: center;
+    color: darkgreen;
+    word-spacing: normal;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.cook{
+    font-family: sans-serif;
+    text-align: center;
+}
+.cook h1{
+    text-align: center;
+    color: darkgreen;
+    word-spacing: normal;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.image1{
+    padding: 1em;
+    
+}
